@@ -44,7 +44,7 @@ packaging==21.3
 parameter-expansion-patched==0.3.1
 pdfminer.six==20220524
 pefile==2022.5.30
-pip-requirements-parser==31.2.0
+pip-requirements-parser==32.0.1
 pkginfo2==30.0.0
 pluggy==1.0.0
 plugincode==31.0.0
