@@ -55,7 +55,7 @@ License detection:
   as an option.
 
 
-v31.2.2 - 2022-12-21
+v31.2.3 - 2022-12-21
 ----------------------------------
 
 This is a minor release to fix an installation issue with the new "packaging"
