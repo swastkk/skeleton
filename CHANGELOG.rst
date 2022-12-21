@@ -54,6 +54,14 @@ License detection:
   detected license only once. This data can contain the reference license text
   as an option.
 
+
+v31.2.2 - 2022-12-21
+----------------------------------
+
+This is a minor release to fix an installation issue with the new "packaging"
+version 22.0
+
+
 v31.2.1 - 2022-10-05
 ----------------------------------
 
