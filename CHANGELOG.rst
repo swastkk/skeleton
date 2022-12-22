@@ -58,9 +58,14 @@ License detection:
 v31.2.4 - 2022-12-22
 ----------------------------------
 
-This is a minor release to fix an installation issue with the new "packaging"
-version 22.0. this is replaced by a fork to work around
+This is a minor bugfix release.
+
+There is a fix for an installation issue with the new "packaging" version 22.0.
+This is replaced by a fork named "packvers" to work around
 https://github.com/pypa/packaging/issues/530
+
+We also dropped support for Python 3.7, though you can still build
+on Python 3.7 from sources.
 
 
 v31.2.1 - 2022-10-05
