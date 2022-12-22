@@ -33,7 +33,7 @@ import json
 import logging
 from os import path
 
-from packaging import version as packaging_version
+from packvers import version as packaging_version
 import requests
 from requests.exceptions import ConnectionError
 

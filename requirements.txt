@@ -40,7 +40,7 @@ MarkupSafe==2.1.1
 more-itertools==8.13.0
 normality==2.3.3
 packageurl-python==0.10.0
-packaging==21.3
+packvers==21.5
 parameter-expansion-patched==0.3.1
 pdfminer.six==20220524
 pefile==2022.5.30

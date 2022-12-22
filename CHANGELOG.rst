@@ -55,11 +55,12 @@ License detection:
   as an option.
 
 
-v31.2.3 - 2022-12-21
+v31.2.4 - 2022-12-22
 ----------------------------------
 
 This is a minor release to fix an installation issue with the new "packaging"
-version 22.0
+version 22.0. this is replaced by a fork to work around
+https://github.com/pypa/packaging/issues/530
 
 
 v31.2.1 - 2022-10-05
