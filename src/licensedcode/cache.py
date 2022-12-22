@@ -25,7 +25,7 @@ cached pickle is safe to use across multiple processes using lock files.
 """
 
 # This is the Pickle protocol we use, which was added in Python 3.4.
-PICKLE_PROTOCOL = 4
+PICKLE_PROTOCOL = 5
 
 # global in-memory cache of the LicenseCache
 _LICENSE_CACHE = None
