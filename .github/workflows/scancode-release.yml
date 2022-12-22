@@ -40,7 +40,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v1
         with:
-          python-version: 3.10
+          python-version: "3.10"
 
       - name: Install requirements then build main and mini wheel and sdist
         run: etc/release/scancode-create-pypi-dist.sh
@@ -92,7 +92,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v1
         with:
-          python-version: 3.10
+          python-version: "3.10"
 
       - name: Download a the main wheel
         uses: actions/download-artifact@v3
@@ -134,7 +134,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v1
         with:
-          python-version: 3.10
+          python-version: "3.10"
 
       - name: Download a the main wheel
         uses: actions/download-artifact@v3
@@ -175,7 +175,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v1
         with:
-          python-version: 3.10
+          python-version: "3.10"
 
       - name: Download a the main wheel
         uses: actions/download-artifact@v3
@@ -216,7 +216,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v1
         with:
-          python-version: 3.10
+          python-version: "3.10"
 
       - name: Download a the main sdist
         uses: actions/download-artifact@v3
@@ -522,7 +522,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v1
         with:
-          python-version: 3.10
+          python-version: "3.10"
 
       - name: Download a single artifact
         uses: actions/download-artifact@v3
